@@ -491,11 +491,14 @@ footer{
     display: flex;
     margin-top: 17px;
     margin-left: 54px;
+    border-top: 1px solid white;
+    width: 1200px;
     }
 .bottom_line_text1{
     font-weight: 400;
     font-size: 14px;
     color: white;
+    margin-top: 25px;
 }
 .bottom_line_text2{
     font-weight: 400;
@@ -504,6 +507,7 @@ footer{
     margin-left: 323px;
     margin-right: 23px;
     text-transform: uppercase;
+    margin-top: 25px;
 }
 .bottom_line_text3{
     font-weight: 400;
@@ -511,10 +515,12 @@ footer{
     color: white;
     margin-right: 15px;
     text-transform: uppercase;
+    margin-top: 25px;
 }
 .bottom_line_text4{
     font-weight: 400;
     font-size: 14px;
     color: white;
     text-transform: uppercase;
+    margin-top: 25px;
 }
