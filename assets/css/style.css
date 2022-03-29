@@ -1,6 +1,9 @@
 *{
     margin: 0;
     padding: 0;
+    width: auto;
+    height: auto;
+    overflow-x: hidden;
 }
 a{
     text-decoration: none;
@@ -55,7 +58,7 @@ header{
     font-weight: 400;
     font-size: 14px;
     line-height: 16.71px;
-    text-transform: uppercase;
+    
     margin-right: 21px;
     margin-top: 21px;
     text-decoration: none;
@@ -245,6 +248,11 @@ header{
     margin-top: 40px;
     background-color: white;
 }
+.btn1:hover{
+    background: rgba(0,0,0,0);
+  color: #3a7999;
+  box-shadow: inset 0 0 0 3px #3a7999;
+}
 /*----------------------sec4------------------------------*/
 .section4{
     margin: 0 auto;
@@ -367,6 +375,16 @@ header{
     margin-top: 70px;
     background-color: white;
     margin-left: -19px;
+}
+.btn2:hover{
+    background: rgba(0,0,0,0);
+  color: #3a7999;
+  box-shadow: inset 0 0 0 3px #3a7999;
+}
+.btn3:hover{
+    background: rgba(0,0,0,0);
+  color: #3a7999;
+  box-shadow: inset 0 0 0 3px #3a7999;
 }
 .lower_line{
     margin-left: 401px;
